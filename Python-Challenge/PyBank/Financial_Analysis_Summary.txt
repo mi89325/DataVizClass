@@ -1,0 +1,7 @@
+Financial Analysis
+-----------------------------
+The total months: 86
+Total number $38382578.0
+Average Change: $446,309.05
+Greatest increase in profit: Aug-2013 999942.0
+Greatest decrease in profit: Aug-2012 -1022534.0
